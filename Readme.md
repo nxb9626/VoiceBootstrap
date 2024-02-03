@@ -4,7 +4,7 @@ Opens the Minecraft launcher in a way that the [Simple Voice Chat](https://githu
 
 ## Why?
 
-The executable `.app` shell script can moved into the Applications directory, making it easier to launch than manually openning a terminal.
+The executable `.app` shell script can moved into the Applications directory, making it easier to launch than manually opening a terminal.
 
 ## How to use?
 
